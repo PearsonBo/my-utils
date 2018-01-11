@@ -8,6 +8,7 @@
     <artifactId>com.boUtils</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <!-- aes加密 -->
     <dependencies>
         <dependency>
             <groupId>commons-codec</groupId>
