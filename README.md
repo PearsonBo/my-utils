@@ -1,1 +1,1 @@
-# myUtils
+# my-utils
