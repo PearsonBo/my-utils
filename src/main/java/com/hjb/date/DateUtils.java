@@ -1,4 +1,4 @@
-package date;
+package com.hjb.date;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -8,7 +8,8 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * Created by HBooo on 2018/1/11.
+ * @author: Hu Jianbo
+ * @date: 2018/10/11 0011 下午 21:06
  */
 public class DateUtils {
 
